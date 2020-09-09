@@ -11,6 +11,6 @@
             <div  class="button">
             <button type="Restore Password" formaction="lostpsw.php" formnovalidate>Restore Password</button>
             </div>
-            No account?! <a href=""> Klik here..</a> 
+            No account?! <a href="signup.php"> Klik here..</a> 
         </div>   
     </form>     
